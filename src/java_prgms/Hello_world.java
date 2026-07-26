@@ -3,7 +3,7 @@ package java_prgms;
 public class Hello_world {
 
 	public Hello_world() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public static void main(String[] args) {
